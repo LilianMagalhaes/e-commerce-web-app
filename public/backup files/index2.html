@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Online Store</title>
+        <link rel="stylesheet" href="src/css/styles.css"/>
+        <!--bootstrap-->
+        <script src="src/lib/bootstrap/bootstrap-5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+        <link rel="stylesheet" href="src/lib/bootstrap/bootstrap-5.3.0-alpha1/dist/css/bootstrap.min.css">
+        <!--javascript-->
+        <script type="text/javascript" src="src/lib/jquery-3.6.3.min.js"></script>
+        <script type="text/javascript" src="src/js/display-script.js"></script>
+        <script type="text/javascript" src="src/js/shoppingcart-script.js"></script>
+    </head> 
+    <body class="">   
+        <div>WEBPAGE SHOP ONLINE</div>
+        <!--shopping cart-->
+        <div class="container">
+            <!--  Shopping cart table wrapper  -->
+            <div id="shopping-cart">
+                <div class="txt-heading">
+                    <h1>Shopping cart</h1>
+                </div>
+                <a onClick="emptyCart()" id="btnEmpty">Empty Cart</a>
+                <table class="tbl-cart" cellpadding="10" cellspacing="1">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th class='text-right' width="10%">Unit Price</th>
+                            <th class='text-right' width="5%">Quantity</th>
+                            <th class='text-right' width="10%">Sub Total</th>
+                        </tr>
+                    </thead>
+                    <!--  Cart table to load data on "add to cart" action -->
+                    <tbody id="cartTableBody">
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td class="text-right">Total:</td>
+                            <td id="itemCount" class="text-right" colspan="2"></td>
+                            <td id="totalAmount" class="text-right"></td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+            <!-- Product gallery shell to load HTML from JavaScript code -->
+            <div id="product-grid">
+                <div class="txt-heading">
+                    <h1>Products</h1>
+                </div>
+                <div id="product-item-container"></div>
+            </div>
+        </div>
+
+        <footer><small>Copright &#169; Lilian Magalhaes - Mars 2023</small></footer>
+    </body>
+</html>

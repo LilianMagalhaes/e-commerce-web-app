@@ -1,0 +1,29 @@
+{
+  "name": "projet-3--robotsjoueurs",
+  "version": "1.0.0",
+  "description": "Robotics toys online store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "robots",
+    "toys",
+    "jouets",
+    "store",
+    "magasin",
+    "online"
+  ],
+  "author": "Lilian Magalhaes",
+  "license": "ISC",
+  "dependencies": {
+    "@material/card": "^14.0.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.3",
+    "node-modules": "^0.0.1"
+  }
+}

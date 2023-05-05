@@ -1,0 +1,230 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    z-index:0;
+    background-color: rgb(230, 228, 228) !important;
+    overflow-x: none;
+    display: flex;
+    flex-direction: column;
+    margin: 0 !important;
+    padding:0;
+    overflow-wrap: normal;
+    height: 100%;
+}
+
+/*---NAV SECTION---*/
+
+header{
+    position: fixed;
+    background-color: #4f8601;
+    width: 100%;
+    height: 90px;
+    z-index: 4;
+    padding:5px;
+    padding-top: 15px;
+    flex-wrap: wrap;
+}
+
+#app-icon{
+    position: absolute;
+    background-color: aliceblue;
+    height: 60px; 
+    width:auto;
+    background-color: transparent;
+    left: 10px;
+    
+  
+}
+.head-app-titles{
+    position: relative;
+    flex-direction: column;
+    padding-bottom: 15px;
+    left:60px;
+    margin-right: 5px; 
+}
+
+#app-title{
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    font-size: 2em;
+    position: relative;
+    bottom:1.8px;
+    line-height: 1em;
+}
+
+#app-subtitle{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    color:  white;
+    font-size: .9em;
+    margin-bottom: 5px;
+    line-height: 0.9em;
+}
+
+#connection-window{
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    background-color:#310cc3;
+    height: 100vh;
+    flex-direction: column;
+    position: relative;  
+    top:90px; 
+    padding: 20px;
+    z-index: 3;
+}
+#form-connection{
+    margin-top:15px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    
+}
+#btn-connect{
+    margin-top:15px;
+    color:#310cc3;
+}
+#welcome-msg{
+    color: white !important;
+    font-size: 1em;
+    left:80px;
+    bottom:0px;
+    position: absolute;
+    color: white !important;
+}
+
+#app-nav{
+    position: relative;
+    top:90px;
+    height: 40px;
+    width: 100%;
+    padding-bottom: 10px;
+    background-color: #310cc3;
+    position: relative;
+    z-index: 3;
+}
+
+.nav-link{
+    left:20px;
+    bottom:0px;
+    position: absolute;
+    color: white !important;
+}
+#filter-dropdown {
+    background-color: #310cc3;
+    position: relative;
+    z-index: 4;
+}
+#filter-dropdown {
+    top:0px;
+    width: 100%;
+    height: 30px;
+    background-color: #310cc3;
+    position: relative;
+    z-index: 4;
+}
+@media (min-width: 400px){
+    #nav-part1{
+        flex-direction: row !important;
+        padding:20px;
+    } 
+    .productGallery{
+        display: flex;
+        flex-direction:row !important;
+    }
+}
+
+#btn-showCart{
+    position:relative;
+    margin-right: 20px;
+    margin-bottom:10px;
+    display:flex;
+    background-color: #310cc3;
+    border-style: none;
+    right:0px;
+    align-self: flex-end;
+}
+
+#icon-showCart {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.title-cart {
+font-family: 'Tilt Neon', cursive;
+color: #310cc3;
+font-size: 1.2em;;
+}
+
+#shopping-bag-container{
+    background-color: white;
+    height:auto;
+    padding:25px;
+}
+#navbarNavDropdown{
+    z-index: 3;
+    top:100px;
+}
+/*---gallery products SECTION---*/
+
+
+.wrap-nav{
+    position: fixed;
+}
+.wrap {
+    display: flex;
+    align-items: center;
+    scale: .65;
+    margin-top:-70px;
+    margin-bottom:-70px;
+    margin-left:-40px;
+    margin-right:-70px;
+}
+
+.scroll-container {
+    position: absolute;
+    justify-items: center;
+    top:140px;
+    height:auto;
+    bottom: 40px;
+    left:0;
+    width:auto;
+    right: 0;
+    width:auto;
+    display: flex;
+    flex-direction: column;
+    overflow-x: none;
+    overflow-y: auto;
+    z-index: 1;
+    scroll-behavior: auto;
+  }
+
+.productGallery{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow-wrap: normal;
+    overflow-x: none;
+    z-index: 3;
+}
+@media (min-height: 800px){
+    .productGallery {
+        flex-direction: row !important;
+        align-items: center;
+    }
+}
+
+ /*---FOOTER SECTION---*/
+footer{
+    position: fixed;
+    display: block;
+    bottom:0;
+    background-color:#4f8601;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 3px;
+    z-index:4;
+}

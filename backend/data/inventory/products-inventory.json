@@ -1,0 +1,192 @@
+[
+    {"code":"01",
+    "name":"KaeKid Robot Toy",
+    "stockQty":"5",
+    "price":"39.99",
+    "overview": [
+        "Interactive Smart Robot with Touch Sensor, Voice Control, Speech Recognition, Singing, Dancing, Walking, Recording & Repeating, Intelligent Educational Robotic Toy",
+        "AT-Robot Toy: This is AT-Robot that can be voice controlled, touch control, go forward, go back, turn left, turn right and 360-degree spin, it also can sing, dance and talk with your kids. Super easy to operate and enjoy!", 
+        "Multiple Modes: AT robot can switch between different modes includes working, recording and sleeping. In recording mode, you can take a 8 seconds recording each time, 3 recordings can be recorded in total.", 
+        "Voice Control: AT robot is so smart who can understand your voice command and respond.It can respond to you and act accordingly. The robot will be power off if you say “goodbye” “sleep” to it, you should press the talking recording button in the chest to turn it on again, otherwise the robot will not work.",
+        "Fun companion: This little guy with LED big eyes can not only speak the robot language but also can repeat everything the child said, encourage kids pronunciation, exercise children's language skills. Let’s baby grow up happily with AT."
+    ],
+    "brand": "KaeKid",
+    "ageCategory":"3+",
+    "category": "Toys",
+    "mainImage": "src/images/products/01/01-1_KaeKid.png"
+    },
+
+    {"code":"02",
+    "name":"ALLCELE Robot ",
+    "stockQty":"2",
+    "price":"40.99",
+    "overview": [
+        "Fantastic Appearance: This cute and funny robot is design in 2 part. The upper part is a cute robot with a pair of LED eyes and the gesture can be adusted.The bottom part is a pair of tank tracks. Besides, we adopt a exquisite packaging for this robot. It will be a great birthday or Christmas gift for your kids. Robot Size:4.9*3.4*4.7 inches.",
+        "Multifunction Robot: LED eyes will light up once you turn on the robot, you can also closed it or let it blink by remote; voice function - turn on the robot it will start talk with you in his own language， he can also sing 3 songs which can swich by remote; the tank tracks - let the robot move forward backward left and right,when it switch to demo mode it will begin dancing.",
+        "Battery Specifition: The rc robot is powered by a 500 mAh rechargeable lithum battery which takes 120 minutes to be fully charged and can work for 100 minutes. There is also a mini USB cable allow you to charge it freely. The remote controller is powered by 2* AA batteries(No included), which can be got easily on Amazon.",
+        "2.4GHz Remote Control: This RC robot toy operates by a 2.4GHz remote controller. The distance of the remote control is up to 100 feet (without obstruction). It is pretty easy for kids to operate.",
+        "AT-Robot Toy: This is AT-Robot that can be voice controlled, touch control, go forward, go back, turn left, turn right and 360-degree spin, it also can sing, dance and talk with your kids. Super easy to operate and enjoy!,What Will You Get: 1x Robot toy, 1 x Controller, 1x Instruction Manual, 1x Screwdriver, 1x USB cable"
+    ],
+    "brand": "ALLCELE",
+    "ageCategory":"3+",
+    "category": "Toys",
+    "mainImage": "src/images/products/02/02-1_ALLCELE Robot.png" 
+    },
+
+    {"code":"03",
+    "name":"CIC21-632 Hydraulic Arm Edge ",
+    "stockQty":"2",
+    "price":"64.65",
+    "overview": [
+        "With innovative and sustainable design in mind, your child can learn deeply about hydro-mechanics principles while building this DIY Robot Arm Kit"
+    ],
+    "brand": "CIC Kits",
+    "ageCategory":"10+",
+    "category": "Toys, Learning & Education",
+    "mainImage": "src/images/products/03/03-01_CIC Kits CIC21-632 Hydraulic Arm Edge.png"
+    },
+
+    {"code":"04",
+    "name": "Wall-E Hello Robot ",
+    "stockQty":"5",
+    "price":"63.99",
+    "overview": [
+        "Kids can bring fan-favorite character Hello WALLE from Disney and Pixar's WALLE to life with this robot toy that features RC movement along with lights and sounds!",
+        "WALLE stands approximately 9.5 inches (24 cm) tall and features a true-to-movie design that fans will love!",
+        "Fueling imaginative play, this Remote-Controlled WALLE unit can move forward and back up with a j-turn to change direction using the 2-button remote.",
+        "Kids can push the button on his front to activate one of 20 light and sound combinations to immerse themselves in play."
+    ],
+    "brand": "Disney and Pixar",
+    "ageCategory":"4+",
+    "category": "Toys",
+    "mainImage": "src/images/products/04/04-01_Disney and Pixar Wall-E.png"  
+    },
+
+    {"code":"05",
+    "name":"STEM 12-in-1 Solar Robot",
+    "stockQty":"5",
+    "price":"39.99",
+    "overview": [
+        "190 Pieces DIY Building Science Experiment Kit for Kids Aged 8-10 and Older,Solar Powered by The Sun.",
+        "12 different types of robots: 12 different building robots which can move on land or wate for your child to build, two levels as to complexity, starting from entry level for younger child to advanced level for older child to challenge their manipulative skills.This is a great way for your child to get started in robotics toy.!",
+        "No batteries needed: Powered by the sun,no batteries needed.The robot kit includes a solar power panel that collects solar heat energy into an electric energy drive motor, which drives the gears to make the machine run smoothly.Offers your child practical experiences of working with green technology, let them learn about renewable energy sources and have fun doing it with.",
+        "Support STEM education: This science toys will teach children how to engineer a robot that uses solar power, while help to develop manual dexterity,problem solving skills, improve logical thinking,self-confidence and promotes the importance of teamwork & collaboration. It is also a perfect toy to encourage learning of mechanics and engineering in young children,enhance your children's Science, Technology, Engineering, and Math skills.",
+        "DIY for CREATION: Improve your child's imagination and creativity by challenging them to build their own robots with 190 easy-build pieces parts & accessories. We include guide for 12 robot designs in details from level 1 to level 2, easy to build as guide step by step.It's fit for boys and girls aged 8-10 and older, great robot toys encourage your child to learn through play."
+    ],
+    "brand": "Sillbird",
+    "ageCategory":"8+",
+    "category": "Toys, Learning & Education, Model Building Kits",
+    "mainImage": "src/images/products/05/05-01_Sillbird STEM.png"  
+    },
+
+    {"code":"06",
+    "name":"DJ-BOT",
+    "stockQty":"4",
+    "price":"24.99",
+    "overview": [
+        "Loaded with tech DJ-BOT is many things - a Bluetooth speaker that dances to the beat, a remote control or programmable bot, a joke telling comedian and much more.",
+        "App enabled Bluetooth control lets you take charge",
+        "Program your own dance moves frame by frame or DJ's emoji faces to show its mood. Learn to code.",
+        "DJ can avoid objects when controlled through the direction pad",
+        "Runs for over 90 minutes on a charge, USB charge cord included"
+    ],
+    "brand": "LiteHawk",
+    "ageCategory":"6+",
+    "category": "Toys",
+    "mainImage": "src/images/products/06/06-01_DJ-BOT.png"  
+    },
+
+    {"code":"07",
+    "name":"Smart Robot Toy",
+    "stockQty":"4",
+    "price":"35.99",
+    "overview": [
+        "Hello, my name is Bill! I have many functions, I can understand your voice command and do some actions, I can go forward, go back, turn left, turn right and 360-degree spin, also can sing, dance and talk with your kids.",
+        "The robot is so smart that can understand your voice command and respond. When the robot is in command control mode, the robot can receive 14 specific voice commands, the robot will respond with robot voice and do actions.",
+        "This little guy with LED big eyes can not only speak the robot language but also can repeat everything the child said with cute voice, encourage kids pronunciation, exercise children's language skills.",
+        "Press the JOKE button to play a random English joke, press the STORY BUTTON to play English story. The robot with study mode, kids can learn to address family members, know the animals, colors and various transportations."
+    ],
+    "brand": "KaeKid",
+    "ageCategory":"1+",
+    "category": "Toys",
+    "mainImage": "src/images/products/07/07-1_Smart Robot Toy.png" 
+    },
+
+    {"code":"08",
+    "name":"RC Robot Carlet",
+    "stockQty":"4",
+    "price":"159.79",
+    "overview": [
+        "This Robot named Carle can be controlled by remote controller, phone App, and also supports voice command and gravity sensors, which suits for different ages and will also enrich your child's mind with the different interactive challenges",
+        "The App control supports 58 various actions and music, emoji, which add up to 200 times of activities in one program, it greatly develops kids‘ creativities, patience,concentration and sense of logic. It will be good choice of your kids learning exploration.",
+        "Carle has 9 flexible joint motors which ensure the robot can completes a series of complex actions smoothly, also its LED face can express different feeling with 10 emojis, it is a great model to teach your kids the world of robot.",
+        "Carle can demonstrate dance, gymnastics for fun, and he can sing 10 songs and tell 4 stories, you can also use him as a bluetooth speaker to play unlimited stories and songs after connecting the cellphone. Kids can enjoy hours of educational fun with Carle."
+    ],
+    "brand": "Ruko",
+    "ageCategory":"4+",
+    "category": "Toys",
+    "mainImage": "src/images/products/08/08-01_RC Robot Carle.png"  
+    },
+
+    {"code":"09",
+    "name":"Robotic Arm Edge Kit",
+    "stockQty":"4",
+    "price":"74.82",
+    "overview": [
+        "Programming learning Robot: The interactive learning robot kit to learn visual coding, building and programming.",
+        "Flexible Robotic Arm: Gripper opens to 3.54 inches and 260 degrees, radial wrist motion of 180 Degree, an extensive elbow range of motion of 180 Degree, base rotation of 180 Degree. 4 Axis design makes the robotic arm move flexibly that can grab objects in any direction.",
+        "Convenient Control and Gripper: It's convenient for you to control the arm robot toys in 2 ways - handle and computer. Grippers have double layers with pointed end and jagged edges which will grab the object firmly.",
+        "101 Pieces Included: Robotic arm kit with sunfounder R3 board, 4 servo motors the MAX torque of the clutch gear digital,upgrade durable and shatterproof plate,Expansion board,4 Potentiometer buttons and so on.",
+        "Easy to Build: Packages with 101 pieces and a detail PDF instruction which is easy to build together. "
+    ],
+    "brand": "SunFounder",
+    "ageCategory":"16+",
+    "category":  "Learning & Education, Eletronics",
+    "mainImage": "src/images/products/09/09-1_SunFounder Robotic Arm Edge .png"  
+    },
+
+    {"code":"10",
+    "name":"UFO Mini Drone",
+    "stockQty":"4",
+    "price":"29.99",
+    "overview": [
+        "The speed of the mini hand drone can be adjusted by clicking the power button, when the green light is on, it shows the medium speed. Click again and the light will turn blue, this means high speed.",
+        "The kids flying drone has an anti-gravity hovering function and can hover automatically. Just control the mini drone with your hands, the UFO can flip and hover intelligently.",
+        "The flying UFO toy provides power for 360° rotating flying, place your hands on both sides of this flying ball toy, when the lights start blinking rapidly, move one hand under it to see this UFO drone perform a cool 3D flipping!."
+    ],
+    "brand": "Semai",
+    "ageCategory":"4+",
+    "category": "Toys",
+    "mainImage": "src/images/products/10/10-1_UFO Mini Drone.png"  
+    },
+
+    {"code":"11",
+    "name":"Robotic Arm Wire Controlled",
+    "stockQty":"4",
+    "price":"56.88",
+    "overview": [
+        "Wired Control Robot Arm includes all of the pieces necessary to build a real working robotic arm. Using the remote control, kids can then make their robotic arm grab items, move upwards and downwards and release objects..",
+        "Hands-on robotics kit that teach basic engineering skills by building your own CIC Kits Robotic Arm Wired Controlled",
+        "This robotic arm has five motors power five joints for optimal control and movement. Assembly is easy with detailed manual in both English & French."
+    ],
+    "brand": "CIC Kits",
+    "ageCategory":"6+",
+    "category": "Toys, Learning & Education",
+    "mainImage": "src/images/products/11/11-1_robotic Arm Wire Controlled.png"  
+    },
+
+    {"code":"12",
+    "name":"Robot Arm Kit for Arduino",
+    "stockQty":"4",
+    "price":"69.99",
+    "overview": [
+        "This product is suitable for users over 12 years old with a theoretical basis for electronic programming.",
+        "The Robot Arm Kit uses the Bluetooth HM-10 module, supports Bluetooth 4.0, and supports Bluetooth apps for Android and iOS systems.",
+        "This kit provides three control methods: Wired Joystick Control, Bluetooth Control and Wireless PS2 Joystick Control. Controlled using a wireless PS2 joystick module (not included in kit). We only provide relevant test code."
+    ],
+    "brand": "KEYESTUDIO",
+    "ageCategory":"12+",
+    "category": "Learning & Education, Eletronics, Sciences",
+    "mainImage": "src/images/products/12/12-1_Robotics Robot Arm Starter Kit.png"  
+   }  
+]
